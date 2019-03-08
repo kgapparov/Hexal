@@ -9,6 +9,8 @@
 body {
 background-color: #323232;
 max-width: 1020px;
+position: relative;
+top: -60px;
 }
 
 header {
